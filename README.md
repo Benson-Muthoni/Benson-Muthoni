@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Benson-Muthoni
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning Programming Languages(python and R, SQL and SAS)
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Data scientists
+- 📫 How to reach me irungubenson@gmail.com
 - 😄 Pronouns: Sir
 - ⚡ Fun fact: Itajipa
 
